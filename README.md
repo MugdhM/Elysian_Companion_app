@@ -11,9 +11,9 @@
 <h3 align="center">Elysian App</h3>
 
 
-  <a align="center" href="https://github.com/MugdhM/Elysian_Companion_app/issues">Report Bug</a>
+  <h3 align="center" href="https://github.com/MugdhM/Elysian_Companion_app/issues">Report Bug</a>
   ·
-  <a align="center" href="https://github.com/MugdhM/Elysian_Companion_app/issues">Request Feature</a>
+  <h3 align="center" href="https://github.com/MugdhM/Elysian_Companion_app/issues">Request Feature</a>
 </p>
 
 ---
