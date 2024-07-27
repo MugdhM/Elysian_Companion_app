@@ -10,11 +10,7 @@
 
 <h3 align="center">Elysian App</h3>
 
-<p align="center">
-  <a href="https://github.com/MugdhM/Elysian_Companion_app"><strong>Get the APK »</strong></a>
-  <br />
-  Your personal companion to help you assess and track your mental health.
-  <br />
+
   <a href="https://github.com/MugdhM/Elysian_Companion_app/issues">Report Bug</a>
   ·
   <a href="https://github.com/MugdhM/Elysian_Companion_app/issues">Request Feature</a>
@@ -54,12 +50,6 @@ In this competitive, fast-paced, age of computers, it's very easy for people to 
 
 - [Inspiration from Behance](https://www.behance.net/gallery/97708289/Poise-Mental-Health-App)
 - [UI Design on Figma](https://www.figma.com/design/7EEKxeKe7Q9u3ZrMnykodD/Elysian-Metal-Health-App-by-Mugdh-Mathur?t=7HrMeG52jYRqWBlL-0)
-
----
-
-## 🚀 User Flowchart
-
-![User Flow](https://user-images.githubusercontent.com/56643117/174653057-bf626bb5-d461-4080-a0cb-d187be47e9b6.jpg)
 
 ---
 
